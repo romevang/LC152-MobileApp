@@ -1,0 +1,70 @@
+{
+    "metadata": {
+      "version": "2.0"
+    },
+    "content": [
+      {
+        "heading": {
+            "headingTextAlignment": "center",
+            "descriptionTextAlignment": "center",
+            "heading": "Learning Center",
+            "description": "<p style=\"text-align: center;\">The Learning Center offers Supplemental Instruction (SI) Leaders and Tutors who facilitate learning of difficult topics within challenging courses, as well as one-on-one support from an Academic Success Coach who addresses unique student needs. The Learning Center aims to inspire a community of lifelong learners by integrating the culture and values of each student.</p>",
+            "headingLevel": 1,
+            "headingTextColor": "black",
+            "descriptionTextColor": "black"
+        },
+        "elementType": "list",
+        "id": "homepage",
+        "itemSize": "medium",
+        "listStyle": "separated",
+        "backgroundColor": "#95bafa",
+        "titleTextColor": "#000000",
+        "descriptionTextColor": "#000000",
+        "titleFontWeight": "semibold",
+        "badgeTextColor": "#ffffff",
+        "textblockMarginLeft": "responsive",
+        "textblockMarginRight": "responsive",
+        "items": [
+            {
+                "title": "Tutoring",
+                "description": "Studying made simple with students setting their own agenda and working at their own pace.",
+                "link": {
+                    "xmodule": {
+                        "id": "tutoring"
+                    }
+                },
+                "image": {
+                    "url": "https://cdn-icons-png.flaticon.com/512/2083/2083305.png",
+                    "alt": "Dima Pima"
+                }
+            },
+            {
+                "title": "Supplemental Instruction",
+                "description": "Peer led, weekly group study sessions offered to students enrolled in historically difficult courses.",
+                "link": {
+                    "xmodule": {
+                        "id": "temp"
+                    }
+                },
+                "image": {
+                    "url": "https://cdn-icons-png.flaticon.com/512/2643/2643361.png",
+                    "alt": "Dima Pima"
+                }
+            },
+            {
+                "title": "Academic Success Coaching",
+                "description": "Academic and personal coaching on time management, study skills, university resources and much more.",
+                "link": {
+                    "xmodule": {
+                        "id": "learning_center"
+                    }
+                },
+                "image": {
+                    "url": "https://cdn-icons-png.flaticon.com/512/919/919465.png",
+                    "alt": "Dima Pima"
+                }
+            }
+        ]
+      }
+    ]
+  }

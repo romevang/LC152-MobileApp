@@ -1,0 +1,186 @@
+{
+  "metadata": {
+    "version": "2.0"
+  },
+  "content": [
+    {
+      "heading": {
+        "headingTextAlignment": "center",
+        "heading": "Learning Center<br>Tutoring",
+        "headingTextColor": "black",
+        "descriptionTextColor": "black",
+        "headingLevel": 1
+      },
+        "elementType": "list",
+        "id": "homepage",
+        "itemSize": "medium",
+        "listStyle": "separated",
+        "backgroundColor": "#95bafa",
+        "titleTextColor": "#000000",
+        "labelTextColor": "#000000",
+        "descriptionTextColor": "#000000",
+        "titleFontWeight": "semibold",
+        "badgeTextColor": "#ffffff",
+        "textblockMarginLeft": "responsive",
+        "textblockMarginRight": "responsive",
+          "items": [
+            {
+              "title": "Business",
+              "description": "ACCT, AGBS, DA, DS, ECON, FIN",
+              "link": {
+                "xmodule": {
+                  "id": "tutoring",
+                  "relativePath": "/Business"
+                }
+              },
+              "image": {
+                "url": "https://png.pngtree.com/png-vector/20190704/ourmid/pngtree-accounting-icon-in-trendy-style-isolated-background-png-image_1540265.jpg"
+              }
+            },
+            {
+              "title": "Chemistry",
+              "description": "CHEM, BIOL",
+              "link": {
+                "xmodule": {
+                  "id": "tutoring",
+                  "relativePath": "/Chemistry"
+                }
+              },
+              "image": {
+                "url": "https://cdn-icons-png.flaticon.com/512/2933/2933808.png"
+              }
+            },
+            {
+              "title": "Communicative Disorders",
+              "description": "CSDS",
+              "link": {
+                "xmodule": {
+                  "id": "tutoring",
+                  "relativePath": "/CSDS"
+                }
+              },
+              "image": {
+                "url": "https://cdn-icons-png.flaticon.com/512/10371/10371102.png"
+              }
+            },
+            {
+              "title": "Computer Science",
+              "description": "CSCI",
+              "link": {
+                "xmodule": {
+                  "id": "tutoring",
+                  "relativePath": "/Computer Science"
+                }
+              },
+              "image": {
+                "url": "https://cdn-icons-png.flaticon.com/512/5766/5766858.png"
+              }
+            },
+            {
+              "title": "Education Studies",
+              "description": "CI, EES, EHD, IAS, LING, LS, NSCI, SSCI",
+              "link": {
+                "xmodule": {
+                  "id": "tutoring",
+                  "relativePath": "/Education Studies"
+                }
+              },
+              "image": {
+                "url": "https://cdn-icons-png.flaticon.com/512/1995/1995574.png"
+              }
+            },
+            {
+              "title": "Health",
+              "description": "BIOL, HHS, PH, KAC, KINES",
+              "link": {
+                "xmodule": {
+                  "id": "tutoring",
+                  "relativePath": "/Health"
+                }
+              },
+              "image": {
+                "url": "https://cdn-icons-png.flaticon.com/512/2966/2966327.png"
+              }
+            },
+            {
+              "title": "Mathematics",
+              "description": "MATH",
+              "link": {
+                "xmodule": {
+                  "id": "tutoring",
+                  "relativePath": "/Mathematics"
+                }
+              },
+              "image": {
+                "url": "https://cdn-icons-png.flaticon.com/512/3965/3965108.png"
+              }
+            },
+            {
+              "title": "Physics",
+              "description": "PHYS",
+              "link": {
+                "xmodule": {
+                  "id": "tutoring",
+                  "relativePath": "/Physics"
+                }
+              },
+              "image": {
+                "url": "https://cdn-icons-png.flaticon.com/512/306/306335.png"
+              }
+            },
+            {
+              "title": "Psychology",
+              "description": "PHYCH",
+              "link": {
+                "xmodule": {
+                  "id": "tutoring",
+                  "relativePath": "/Psychology"
+                }
+              },
+              "image": {
+                "url": "https://w7.pngwing.com/pngs/828/364/png-transparent-computer-icons-psychology-understanding-mind-others-monochrome-head-psychology.png"
+              }
+            },
+            {
+              "title": "Social Sciences",
+              "description": "ANTH, GEOG, HIST, HONOR, PLSI, SOC, WGSS",
+              "link": {
+                "xmodule": {
+                  "id": "tutoring",
+                  "relativePath": "/Social Sciences"
+                }
+              },
+              "image": {
+                "url": "https://cdn-icons-png.flaticon.com/512/3079/3079325.png"
+              }
+            },
+            {
+              "title": "Spanish",
+              "description": "SPAN",
+              "link": {
+                "xmodule": {
+                  "id": "tutoring",
+                  "relativePath": "/Spanish"
+                }
+              },
+              "image": {
+                "url": "https://cdn-icons-png.flaticon.com/512/8081/8081829.png"
+              }
+            },
+            {
+              "title": "Writing",
+              "description": "ANTH, COMM, ENGL",
+              "link": {
+                "xmodule": {
+                  "id": "tutoring",
+                  "relativePath": "/Writing"
+                }
+              },
+              "image": {
+                "url": "https://cdn-icons-png.flaticon.com/512/1973/1973807.png"
+              }
+            }
+          ]
+        }
+    ]
+}

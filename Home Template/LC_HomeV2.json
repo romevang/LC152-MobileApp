@@ -1,0 +1,50 @@
+{
+  "metadata": {
+    "version": "2.0"
+  },
+  "content": [
+    {
+      "elementType": "list",
+      "id": "homepage",
+      "itemSize": "medium",
+      "listStyle": "grouped",
+      "backgroundColor": "#d6204e",
+      "titleTextColor": "#f5f6f6",
+      "descriptionTextColor": "#f5f6f6",
+      "titleFontWeight": "semibold",
+      "badgeTextColor": "#ffffff",
+      "items": [
+        {
+          "title": "Tutoring:",
+          "description": "Studying made simple with students setting their own agenda and working at their own pace.",
+          "link": {
+            "xmodule": {
+              "id": "tutoring"
+            }
+          },
+          "accessoryIcon": "external"
+        },
+        {
+          "title": "Supplemental Instruction",
+          "description": "Peer led, weekly group study sessions offered to students enrolled in historically difficult courses.",
+          "link": {
+            "xmodule": {
+              "id": "temp"
+            }
+          },
+          "accessoryIcon": "external"
+        },
+        {
+          "title": "Academic Success Coaching",
+          "description": "Academic and personal coaching on time management, study skills, university resources and much more.",
+          "link": {
+            "xmodule": {
+              "id": "learning_center"
+            }
+          },
+          "accessoryIcon": "external"
+        }
+      ]
+    }
+  ]
+}
